@@ -1,0 +1,2 @@
+Kod Hamminga wykorzystywany jest do identyfikacji błędnych bitów.
+W procesie dekodowania odnajdywany jest błędny bit, a następnie korygowany. 

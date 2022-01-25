@@ -1,0 +1,24 @@
+Wyniki różnią się w zależności od wybranych parametrów fm, fn, fs, ka, kf oraz kp.
+
+Przy parametrach:
+
+fn = 250
+fm = 10
+ka = 0.5
+kf = 0.5
+kp = 0.5
+fs = 1000
+
+Szerokości pasma wyglądają następująco:
+
+Amplitudowy 3dB:  0
+Amplitudowy 6dB:  0
+Amplitudowy 12dB:  20
+
+Fazy 3dB:  0
+Fazy 6dB:  20
+Fazy 12dB:  20
+
+Czestotliwosci 3dB:  0
+Czestotliwosci 6dB:  0
+Czestotliwosci 12dB:  0

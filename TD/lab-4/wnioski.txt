@@ -1,0 +1,3 @@
+Wyniki różnią się w zależności od wybranych 
+parametrów W, f_n i f_s 
+oraz parametrów kluczowania takich jak A1, A2, f_n1, f_n2.

@@ -1,0 +1,3 @@
+Wprowadzony sygnał otrzymałem za pomoca funkcji wykonanej na wcześniejszych laboratoriach.
+Postępując zgodnie z instrukcją oraz wskazówkami prowadzącego udało się odpowiednio zmodulować sygnał.
+Najcięższym do zaimplementowania przypadkiem okazało się być ASK, ze względu na wartość h.
